@@ -39,10 +39,16 @@ def shareholder_info(company):
 
 
 def multiple_tickers():
-    tickers = yf.Tickers('msft aapl goog')
+    '''
+     using Tickers module 
+     to obtain info about several companies at the same time
+    '''
+    tickers = yf.Tickers('bmbl afrm')
 
-    company_info = tickers.tickers.AAPL.info
+    company_info = tickers.tickers.BMBL.info
     print(company_info)
+    # IndexError: list index out of range
+    # not current
 
 
 ###--- DRIVER CODE ---###
