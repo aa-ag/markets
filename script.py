@@ -11,7 +11,6 @@ def company_level_info(company):
      Ticker module from yfinance provides
      company-level information.
     '''
-    c = yf.Ticker(company)
 
     company_info = c.info
 
@@ -27,6 +26,20 @@ def company_level_info(company):
     all_info.close()
 
 
+def shareholder_info(company):
+    '''
+     modules:
+     major_holders, institutional_holders, balance_sheet, recommendations
+    '''
+    c = yf.Ticker(company)
+
+    print(c.major_holders)
+    print(c.institutional_holders)
+    print(c.balance_sheet)
+    print(c.calendar)
+
+
 ###--- DRIVER CODE ---###
 if __name__ == "__main__":
-    company_level_info("MSFT")
+    # company_level_info("MSFT")
+    shareholder_info("MSFT")
