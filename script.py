@@ -1,6 +1,5 @@
 ###--- IMPORTS ---###
 import yfinance as yf
-import shutil
 
 
 ###--- GLOBAL VARIABLES ---###
@@ -22,8 +21,8 @@ def company_level_info(company):
 
     all_info.write(f"*** {company_name.upper()} ***\n\n")
 
-    for k, v in company_info.items():
-        all_info.write(f"{k}: {v}\n")
+    for i, (k, v) in enumerate(company_info.items()):
+        all_info.write(f"{i+1}. {k}: {v}\n")
 
     all_info.close()
 

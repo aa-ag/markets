@@ -1,125 +1,125 @@
 *** MICROSOFT ***
 
-zip: 98052-6399
-sector: Technology
-fullTimeEmployees: 163000
-longBusinessSummary: Microsoft Corporation develops, licenses, and supports software, services, devices, and solutions worldwide. Its Productivity and Business Processes segment offers Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, and Skype for Business, as well as related Client Access Licenses (CAL); Skype, Outlook.com, OneDrive, and LinkedIn; and Dynamics 365, a set of cloud-based and on-premises business solutions for small and medium businesses, large organizations, and divisions of enterprises. Its Intelligent Cloud segment licenses SQL and Windows Servers, Visual Studio, System Center, and related CALs; GitHub that provides a collaboration platform and code hosting service for developers; and Azure, a cloud platform. It also offers support services and Microsoft consulting services to assist customers in developing, deploying, and managing Microsoft server and desktop solutions; and training and certification to developers and IT professionals on various Microsoft products. Its More Personal Computing segment provides Windows original equipment manufacturer (OEM) licensing and other non-volume licensing of the Windows operating system; Windows Commercial, such as volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; Windows Internet of Things; and MSN advertising. It also offers Surface, PC accessories, PCs, tablets, gaming and entertainment consoles, and other devices; Gaming, including Xbox hardware, and Xbox content and services; video games and third-party video game royalties; and Search, including Bing and Microsoft advertising. It sells its products through OEMs, distributors, and resellers; and directly through digital marketplaces, online stores, and retail stores. It has a strategic collaboration with DXC Technology. The company was founded in 1975 and is headquartered in Redmond, Washington.
-city: Redmond
-phone: 425-882-8080
-state: WA
-country: United States
-companyOfficers: []
-website: http://www.microsoft.com
-maxAge: 1
-address1: One Microsoft Way
-industry: Software—Infrastructure
-previousClose: 244.49
-regularMarketOpen: 243.9332
-twoHundredDayAverage: 216.28935
-trailingAnnualDividendYield: 0.008752914
-payoutRatio: 0.31149998
-volume24Hr: None
-regularMarketDayHigh: 245.29
-navPrice: None
-averageDailyVolume10Day: 22516387
-totalAssets: None
-regularMarketPreviousClose: 244.49
-fiftyDayAverage: 227.6791
-trailingAnnualDividendRate: 2.14
-open: 243.9332
-toCurrency: None
-averageVolume10days: 22516387
-expireDate: None
-yield: None
-algorithm: None
-dividendRate: 2.24
-exDividendDate: 1613520000
-beta: 0.816969
-circulatingSupply: None
-startDate: None
-regularMarketDayLow: 242.74
-priceHint: 2
-currency: USD
-trailingPE: 36.52751
-regularMarketVolume: 16561079
-lastMarket: None
-maxSupply: None
-openInterest: None
-marketCap: 1847768514560
-volumeAllCurrencies: None
-strikePrice: None
-averageVolume: 28224814
-priceToSalesTrailing12Months: 12.054543
-dayLow: 242.74
-ask: 245.3
-ytdReturn: None
-askSize: 800
-volume: 16561079
-fiftyTwoWeekHigh: 245.92
-forwardPE: 30.283066
-fromCurrency: None
-fiveYearAvgDividendYield: 1.71
-fiftyTwoWeekLow: 132.52
-bid: 245.26
-tradeable: False
-dividendYield: 0.0092
-bidSize: 1000
-dayHigh: 245.29
-exchange: NMS
-shortName: Microsoft Corporation
-longName: Microsoft Corporation
-exchangeTimezoneName: America/New_York
-exchangeTimezoneShortName: EST
-isEsgPopulated: False
-gmtOffSetMilliseconds: -18000000
-quoteType: EQUITY
-symbol: MSFT
-messageBoardId: finmb_21835
-market: us_market
-annualHoldingsTurnover: None
-enterpriseToRevenue: 11.709
-beta3Year: None
-profitMargins: 0.33473998
-enterpriseToEbitda: 25.036
-52WeekChange: 0.319072
-morningStarRiskRating: None
-forwardEps: 8.09
-revenueQuarterlyGrowth: None
-sharesOutstanding: 7560500224
-fundInceptionDate: None
-annualReportExpenseRatio: None
-bookValue: 17.259
-sharesShort: 44533174
-sharesPercentSharesOut: 0.0058999998
-fundFamily: None
-lastFiscalYearEnd: 1593475200
-heldPercentInstitutions: 0.71844
-netIncomeToCommon: 51309998080
-trailingEps: 6.707
-lastDividendValue: 0.56
-SandP52WeekChange: 0.1586374
-priceToBook: 14.194913
-heldPercentInsiders: 0.00059
-nextFiscalYearEnd: 1656547200
-mostRecentQuarter: 1609372800
-shortRatio: 1.39
-sharesShortPreviousMonthDate: 1609372800
-floatShares: 7431722306
-enterpriseValue: 1794789343232
-threeYearAverageReturn: None
-lastSplitDate: 1045526400
-lastSplitFactor: 2:1
-legalType: None
-lastDividendDate: 1605657600
-morningStarOverallRating: None
-earningsQuarterlyGrowth: 0.327
-dateShortInterest: 1611878400
-pegRatio: 1.82
-lastCapGain: None
-shortPercentOfFloat: 0.0058999998
-sharesShortPriorMonth: 39201229
-impliedSharesOutstanding: None
-category: None
-fiveYearAverageReturn: None
-regularMarketPrice: 243.9332
-logo_url: https://logo.clearbit.com/microsoft.com
+1. zip: 98052-6399
+2. sector: Technology
+3. fullTimeEmployees: 163000
+4. longBusinessSummary: Microsoft Corporation develops, licenses, and supports software, services, devices, and solutions worldwide. Its Productivity and Business Processes segment offers Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, and Skype for Business, as well as related Client Access Licenses (CAL); Skype, Outlook.com, OneDrive, and LinkedIn; and Dynamics 365, a set of cloud-based and on-premises business solutions for small and medium businesses, large organizations, and divisions of enterprises. Its Intelligent Cloud segment licenses SQL and Windows Servers, Visual Studio, System Center, and related CALs; GitHub that provides a collaboration platform and code hosting service for developers; and Azure, a cloud platform. It also offers support services and Microsoft consulting services to assist customers in developing, deploying, and managing Microsoft server and desktop solutions; and training and certification to developers and IT professionals on various Microsoft products. Its More Personal Computing segment provides Windows original equipment manufacturer (OEM) licensing and other non-volume licensing of the Windows operating system; Windows Commercial, such as volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; Windows Internet of Things; and MSN advertising. It also offers Surface, PC accessories, PCs, tablets, gaming and entertainment consoles, and other devices; Gaming, including Xbox hardware, and Xbox content and services; video games and third-party video game royalties; and Search, including Bing and Microsoft advertising. It sells its products through OEMs, distributors, and resellers; and directly through digital marketplaces, online stores, and retail stores. It has a strategic collaboration with DXC Technology. The company was founded in 1975 and is headquartered in Redmond, Washington.
+5. city: Redmond
+6. phone: 425-882-8080
+7. state: WA
+8. country: United States
+9. companyOfficers: []
+10. website: http://www.microsoft.com
+11. maxAge: 1
+12. address1: One Microsoft Way
+13. industry: Software—Infrastructure
+14. previousClose: 244.49
+15. regularMarketOpen: 243.9332
+16. twoHundredDayAverage: 216.28935
+17. trailingAnnualDividendYield: 0.008752914
+18. payoutRatio: 0.31149998
+19. volume24Hr: None
+20. regularMarketDayHigh: 245.29
+21. navPrice: None
+22. averageDailyVolume10Day: 22516387
+23. totalAssets: None
+24. regularMarketPreviousClose: 244.49
+25. fiftyDayAverage: 227.6791
+26. trailingAnnualDividendRate: 2.14
+27. open: 243.9332
+28. toCurrency: None
+29. averageVolume10days: 22516387
+30. expireDate: None
+31. yield: None
+32. algorithm: None
+33. dividendRate: 2.24
+34. exDividendDate: 1613520000
+35. beta: 0.816969
+36. circulatingSupply: None
+37. startDate: None
+38. regularMarketDayLow: 242.74
+39. priceHint: 2
+40. currency: USD
+41. trailingPE: 36.52751
+42. regularMarketVolume: 16561079
+43. lastMarket: None
+44. maxSupply: None
+45. openInterest: None
+46. marketCap: 1847768514560
+47. volumeAllCurrencies: None
+48. strikePrice: None
+49. averageVolume: 28224814
+50. priceToSalesTrailing12Months: 12.054543
+51. dayLow: 242.74
+52. ask: 245.3
+53. ytdReturn: None
+54. askSize: 800
+55. volume: 16561079
+56. fiftyTwoWeekHigh: 245.92
+57. forwardPE: 30.283066
+58. fromCurrency: None
+59. fiveYearAvgDividendYield: 1.71
+60. fiftyTwoWeekLow: 132.52
+61. bid: 245.26
+62. tradeable: False
+63. dividendYield: 0.0092
+64. bidSize: 1000
+65. dayHigh: 245.29
+66. exchange: NMS
+67. shortName: Microsoft Corporation
+68. longName: Microsoft Corporation
+69. exchangeTimezoneName: America/New_York
+70. exchangeTimezoneShortName: EST
+71. isEsgPopulated: False
+72. gmtOffSetMilliseconds: -18000000
+73. quoteType: EQUITY
+74. symbol: MSFT
+75. messageBoardId: finmb_21835
+76. market: us_market
+77. annualHoldingsTurnover: None
+78. enterpriseToRevenue: 11.709
+79. beta3Year: None
+80. profitMargins: 0.33473998
+81. enterpriseToEbitda: 25.036
+82. 52WeekChange: 0.319072
+83. morningStarRiskRating: None
+84. forwardEps: 8.09
+85. revenueQuarterlyGrowth: None
+86. sharesOutstanding: 7560500224
+87. fundInceptionDate: None
+88. annualReportExpenseRatio: None
+89. bookValue: 17.259
+90. sharesShort: 44533174
+91. sharesPercentSharesOut: 0.0058999998
+92. fundFamily: None
+93. lastFiscalYearEnd: 1593475200
+94. heldPercentInstitutions: 0.71844
+95. netIncomeToCommon: 51309998080
+96. trailingEps: 6.707
+97. lastDividendValue: 0.56
+98. SandP52WeekChange: 0.1586374
+99. priceToBook: 14.194913
+100. heldPercentInsiders: 0.00059
+101. nextFiscalYearEnd: 1656547200
+102. mostRecentQuarter: 1609372800
+103. shortRatio: 1.39
+104. sharesShortPreviousMonthDate: 1609372800
+105. floatShares: 7431722306
+106. enterpriseValue: 1794789343232
+107. threeYearAverageReturn: None
+108. lastSplitDate: 1045526400
+109. lastSplitFactor: 2:1
+110. legalType: None
+111. lastDividendDate: 1605657600
+112. morningStarOverallRating: None
+113. earningsQuarterlyGrowth: 0.327
+114. dateShortInterest: 1611878400
+115. pegRatio: 1.82
+116. lastCapGain: None
+117. shortPercentOfFloat: 0.0058999998
+118. sharesShortPriorMonth: 39201229
+119. impliedSharesOutstanding: None
+120. category: None
+121. fiveYearAverageReturn: None
+122. regularMarketPrice: 243.9332
+123. logo_url: https://logo.clearbit.com/microsoft.com
