@@ -2,15 +2,14 @@
 import yfinance as yf
 
 
-###--- GLOBAL VARIABLES ---###
-
-
 ###--- FUNCTIONS ---###
 def company_level_info(company):
     '''
      Ticker module from yfinance provides
      company-level information.
     '''
+
+    c = yf.Ticker(company)
 
     company_info = c.info
 
@@ -39,7 +38,15 @@ def shareholder_info(company):
     print(c.calendar)
 
 
+def multiple_tickers():
+    tickers = yf.Tickers('msft aapl goog')
+
+    company_info = tickers.tickers.AAPL.info
+    print(company_info)
+
+
 ###--- DRIVER CODE ---###
 if __name__ == "__main__":
     # company_level_info("MSFT")
-    shareholder_info("MSFT")
+    # shareholder_info("MSFT")
+    multiple_tickers()
