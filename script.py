@@ -16,9 +16,11 @@ def company_level_info(company):
 
     company_info = c.info
 
-    all_info = open('_.txt', 'w+')
+    company_name = company_info['shortName'].split()[0]
 
-    all_info.write(f"*** {company_info['shortName'].split()[0]} ***\n\n")
+    all_info = open(f'{company_name.lower()}.txt', 'w+')
+
+    all_info.write(f"*** {company_name.upper()} ***\n\n")
 
     for k, v in company_info.items():
         all_info.write(f"{k}: {v}\n")

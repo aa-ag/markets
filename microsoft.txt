@@ -1,4 +1,4 @@
-*** Microsoft ***
+*** MICROSOFT ***
 
 zip: 98052-6399
 sector: Technology
