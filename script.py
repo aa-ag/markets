@@ -14,9 +14,13 @@ def company_level_info(company):
     '''
     c = yf.Ticker(company)
 
+    company_info = c.info
+
     all_info = open('_.txt', 'w+')
 
-    for k, v in c.info.items():
+    all_info.write(f"*** {company_info['shortName']} ***\n\n")
+
+    for k, v in company_info.items():
         all_info.write(f"{k}: {v}\n")
 
     all_info.close()

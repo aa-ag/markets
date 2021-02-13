@@ -1,3 +1,5 @@
+*** Microsoft Corporation ***
+
 zip: 98052-6399
 sector: Technology
 fullTimeEmployees: 163000
